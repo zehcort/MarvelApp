@@ -1,4 +1,4 @@
 export const environment = {
-  production: true
+    production: false
 };
 export const SERVER_URL = 'http://gateway.marvel.com';
